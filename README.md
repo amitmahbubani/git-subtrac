@@ -8,7 +8,7 @@ which can be pushed, pulled, forked, and merged however you want.
 ## Quick start
 
 git-subtrac is a git extension written in the Go language using the lovely
-[go-git](https://github.com/src-d/go-git) library. If you have Go 1.12 or
+[go-git](https://github.com/go-git/go-git) library. If you have Go 1.12 or
 higher and a project that already uses go modules (contains a go.mod file),
 you can install the tool like this:
 
